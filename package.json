@@ -7,10 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YSH <auisdffa@broad.com>",
-  "user": { 
-    "name": "YSH222",
-    "email": "abc@broad.com"
-  },	  
+  
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
